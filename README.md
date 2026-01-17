@@ -40,7 +40,7 @@ colcon build --symlink-install
 ### 运行规划器
 ```bash
 # 启动 2D 轨迹规划演示
-./install/fast_planner/bin/fast_planner_plan
+./build/fast_planner/fast_planner_plan
 ```
 
 ### 可视化接口说明 (RViz2)
