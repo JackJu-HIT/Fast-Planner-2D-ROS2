@@ -61,10 +61,9 @@ colcon build --symlink-install
 
 ---
 
-## 5. 参考项目 (References)
+## 5.本项目核心算法源自以下优秀的开源项目：
 *   **[Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan)** (HKUST Aerial Robotics Group)
-*   **[FastPlanner 原版 (JackJu-HIT)](https://github.com/JackJu-HIT/FastPlanner)**
-
+  
 ---
 
 ## 📚 教程与技术支持
